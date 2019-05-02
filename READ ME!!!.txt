@@ -1,0 +1,12 @@
+=== CARA MENGGUNAKAN APLIKASI KNAPSACK ===
+==========================================
+0. Program dibangun menggunakan bahasa Phyton versi 3
+0. Jika belum memiliki Python versi 3.x.x, silakan install terlebih dahulu (installer telah tersedia)
+0. Selanjutnya buka aplikasi menggunakan cmd.
+0. Berikut langkah-langkah menjalankan program:
+	1. Buka command prompt
+	2. Arahkan direktori sesuai lokasi folder
+	3. Ketik python "Knapsack dengan Dynamic Programming_Rivaldo.py" untuk menjalankan aplikasi bernama Knapsack dengan Dynamic Programming_Rivaldo.py
+	4. Ketik python "Knapsack dengan Brute Force_Naufal.py" untuk menjalankan aplikasi bernama Knapsack dengan Brute Force_Naufal.py
+	5. Ketik python "Knapsack.py" untuk menjalankan aplikasi bernama Knapsack.py
+	6. Contoh inputan dapat dilihat pada laporan tugas besar.
